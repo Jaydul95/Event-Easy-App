@@ -1,0 +1,8 @@
+{
+    "endPoint": {
+        "addNewUser": "add-new-user",
+        "verifyUser": "verify-user",
+        "saveBooking": "save-booking",
+        "fetchBookings": "fetch-bookings"
+    }
+}
